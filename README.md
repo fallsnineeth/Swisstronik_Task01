@@ -1,14 +1,6 @@
 # Swisstronik Tesnet Techinal Task 01 DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x1d75f33daebaf06a0dff56971de3998f93b6ec98
-```
 
 ## Steps
 
@@ -111,4 +103,3 @@ github : [fallsnineeth](https://github.com/fallsnineeth/)
 twitter : @falls_nine
 
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
